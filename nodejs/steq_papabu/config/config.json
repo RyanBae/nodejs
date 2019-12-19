@@ -1,0 +1,10 @@
+{ 
+    "development": {
+         "username": "root", 
+         "password": "tripleet1004", 
+         "database": "gpsm_Ryan", 
+         "host": "10.10.10.54", 
+         "dialect": "mysql", 
+         "operatorAliases" : false 
+    }
+}
